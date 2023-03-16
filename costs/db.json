@@ -1,0 +1,116 @@
+{
+  "projects": [
+    {
+      "name": "projeto teste atualizado",
+      "budget": "50000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 200,
+      "services": [
+        {
+          "name": "meu novo serviço",
+          "cost": "100",
+          "description": "teste",
+          "id": "c3b47b1f-4d24-4f75-8842-7035faae82cf"
+        },
+        {
+          "name": "meu novo serviço 2",
+          "cost": "100",
+          "description": "teste",
+          "id": "dcb0ba90-6d34-4898-8194-5f60ea6600cd"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "projeto teste",
+      "budget": "5000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 60,
+      "services": [
+        {
+          "name": "teste",
+          "cost": "2",
+          "description": "teste",
+          "id": "840c0df7-8bfb-4d66-ba26-1636f594c8d3"
+        },
+        {
+          "name": "teste",
+          "cost": "3",
+          "description": "teste",
+          "id": "81508ff7-9075-481b-a795-c1082dc7b0aa"
+        },
+        {
+          "name": "Adriano Bezerra Ferreira",
+          "cost": "55",
+          "description": "teste",
+          "id": "048f374e-bc36-4de9-af64-4c839f7aff39"
+        }
+      ],
+      "id": 3
+    },
+    {
+      "name": "projeto teste",
+      "budget": "5000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 4
+    },
+    {
+      "name": "projeto teste",
+      "budget": "5000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 50,
+      "services": [
+        {
+          "name": "teste",
+          "cost": "50",
+          "description": "teste",
+          "id": "d8951297-efaf-4e16-be1c-b70cf99a7345"
+        }
+      ],
+      "id": 5
+    },
+    {
+      "name": "projeto teste",
+      "budget": "5000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 6
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Infra"
+    },
+    {
+      "id": 2,
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": 3,
+      "name": "Design"
+    },
+    {
+      "id": 4,
+      "name": "Planejamento"
+    }
+  ]
+}
